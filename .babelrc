@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "electron": "1.8.1",
+        "node": "9"
+      }
+    }],
+    "stage-3"
+  ]
+}
