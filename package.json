@@ -1,7 +1,7 @@
 {
   "name": "electron-ipcrenderer-messageport",
   "version": "1.0.1-0",
-  "description": "",
+  "description": "Turns Electron IPCRenderer into MessagePort",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel ./src --out-dir ./lib --source-maps --ignore *.spec.js,*.test.js",
