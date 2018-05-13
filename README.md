@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/electron-ipcrenderer-messageport.svg)](https://badge.fury.io/js/electron-ipcrenderer-messageport) [![Build Status](https://travis-ci.org/compulim/electron-ipcrenderer-messageport.svg?branch=master)](https://travis-ci.org/compulim/electron-ipcrenderer-messageport)
 
-Turns Electron [`IPCMain`](https://github.com/electron/electron/blob/master/docs/api/ipc-main.md) into [MessagePort](https://developer.mozilla.org/en-US/docs/Web/API/MessagePort).
+Turns Electron [`IPCRenderer`](https://github.com/electron/electron/blob/master/docs/api/ipc-renderer.md) into [MessagePort](https://developer.mozilla.org/en-US/docs/Web/API/MessagePort).
 
 # Background
 
